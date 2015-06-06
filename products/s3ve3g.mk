@@ -20,7 +20,7 @@ $(call inherit-product, device/samsung/s3ve3g/full_s3ve3g.mk)
 
 # Release name
 PRODUCT_RELEASE_NAME := GT-I9301I
-PRODUCT_NAME := cm_s3ve3g
+PRODUCT_NAME := aicp_s3ve3g
 
 # Boot animation
 TARGET_SCREEN_HEIGHT := 1280
